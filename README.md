@@ -11,3 +11,4 @@ The repository contains the followin elements:
 - a folder with the source files for the models used in the experiments
 - a folder for the experiments with *GPT5-mini* as evaluator with excel files for the the raw data and the descriptive statistics, and a jupyter notebook for the inferential analysis.
 - a folder for the experiments with *gemini-2.5-flash-lite* as evaluator with excel files for the the raw data and the descriptive statistics, and a jupyter notebook for the inferential analysis.
+- a pdf file with the supplementary material for the paper, including an elaborated explanation of the literature review, the experimental set-up with Promptfoo, and a description of the inferential analysis.

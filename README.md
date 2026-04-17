@@ -3,7 +3,7 @@
 This repo contains the online supplementary material for the paper *"Uncovering LLM’s Capabilities in Model-based Question Answering for UML Class Diagrams"* accepted at EMMSAD 2026.
 The preprint of the paper can be found here:
 
-Mischak, M., Verbruggen, C., Langer, P., Bork, D. (2026). Uncovering LLM’s Capabilities in Model-based Question Answering for UML Class Diagrams. EMMSAD 2026. [link]
+Mischak, M., Verbruggen, C., Langer, P., Bork, D. (2026). Uncovering LLM’s Capabilities in Model-based Question Answering for UML Class Diagrams. EMMSAD 2026. [link](https://model-engineering.info/publications/papers/EMMSAD26-LLM-QA-CR-Web.pdf)
 
 # Respository content
 
